@@ -1,0 +1,4 @@
+module:
+  jetcd:
+    endpoints: "http://47.98.243.91:2380"
+    enable: false
